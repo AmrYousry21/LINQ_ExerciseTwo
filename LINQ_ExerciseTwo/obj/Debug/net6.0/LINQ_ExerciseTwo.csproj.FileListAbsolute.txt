@@ -1,0 +1,15 @@
+C:\Users\amryo\Repos\LINQ_ExerciseTwo\LINQ_ExerciseTwo\bin\Debug\net6.0\LINQ_ExerciseTwo.exe
+C:\Users\amryo\Repos\LINQ_ExerciseTwo\LINQ_ExerciseTwo\bin\Debug\net6.0\LINQ_ExerciseTwo.deps.json
+C:\Users\amryo\Repos\LINQ_ExerciseTwo\LINQ_ExerciseTwo\bin\Debug\net6.0\LINQ_ExerciseTwo.runtimeconfig.json
+C:\Users\amryo\Repos\LINQ_ExerciseTwo\LINQ_ExerciseTwo\bin\Debug\net6.0\LINQ_ExerciseTwo.dll
+C:\Users\amryo\Repos\LINQ_ExerciseTwo\LINQ_ExerciseTwo\bin\Debug\net6.0\LINQ_ExerciseTwo.pdb
+C:\Users\amryo\Repos\LINQ_ExerciseTwo\LINQ_ExerciseTwo\obj\Debug\net6.0\LINQ_ExerciseTwo.csproj.AssemblyReference.cache
+C:\Users\amryo\Repos\LINQ_ExerciseTwo\LINQ_ExerciseTwo\obj\Debug\net6.0\LINQ_ExerciseTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amryo\Repos\LINQ_ExerciseTwo\LINQ_ExerciseTwo\obj\Debug\net6.0\LINQ_ExerciseTwo.AssemblyInfoInputs.cache
+C:\Users\amryo\Repos\LINQ_ExerciseTwo\LINQ_ExerciseTwo\obj\Debug\net6.0\LINQ_ExerciseTwo.AssemblyInfo.cs
+C:\Users\amryo\Repos\LINQ_ExerciseTwo\LINQ_ExerciseTwo\obj\Debug\net6.0\LINQ_ExerciseTwo.csproj.CoreCompileInputs.cache
+C:\Users\amryo\Repos\LINQ_ExerciseTwo\LINQ_ExerciseTwo\obj\Debug\net6.0\LINQ_ExerciseTwo.dll
+C:\Users\amryo\Repos\LINQ_ExerciseTwo\LINQ_ExerciseTwo\obj\Debug\net6.0\refint\LINQ_ExerciseTwo.dll
+C:\Users\amryo\Repos\LINQ_ExerciseTwo\LINQ_ExerciseTwo\obj\Debug\net6.0\LINQ_ExerciseTwo.pdb
+C:\Users\amryo\Repos\LINQ_ExerciseTwo\LINQ_ExerciseTwo\obj\Debug\net6.0\LINQ_ExerciseTwo.genruntimeconfig.cache
+C:\Users\amryo\Repos\LINQ_ExerciseTwo\LINQ_ExerciseTwo\obj\Debug\net6.0\ref\LINQ_ExerciseTwo.dll
